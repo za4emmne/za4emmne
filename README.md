@@ -12,10 +12,10 @@
 - **[Дикая пустыня](https://yandex.ru/games/app/334814?lang=ru)**: ламповый бесконечный раннер, созданный на Unity
 - **[Используемые инструменты]**: PoolObject
 - **[Ссылка на репозиторий](https://github.com/za4emmne/DirtyDesert)**
-- <img width="560" height="329" alt="Обложка дикая пустыня" src="https://github.com/user-attachments/assets/f7ad958e-be6d-4ae0-b374-82ac4c3a1f5e" />
-
+<img width="560" height="329" alt="Обложка дикая пустыня" src="https://github.com/user-attachments/assets/f7ad958e-be6d-4ae0-b374-82ac4c3a1f5e" />
+---
 - **[Рогалик](https://yandex.ru/games/app/417714?draft=true&lang=ru)**: настоящий замес в стиле Vampire Survivors
-- **[Используемые инструменты]**: 
+- **[Используемые инструменты]**: PoolObject, Chunk Map Generation
 - **[Ссылка на репозиторий](https://github.com/za4emmne/Beacon)**
 <img width="560" height="329" alt="Обложка" src="https://github.com/user-attachments/assets/ebb3b2b1-a402-4623-a81c-716ce445635d" />
 ---
