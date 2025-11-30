@@ -17,10 +17,10 @@
 
 ---
 
-- **[Рогалик](https://yandex.ru/games/app/417714?draft=true&lang=ru)**: настоящий замес в стиле Vampire Survivors
+- **[Сечь](https://yandex.ru/games/app/417714?draft=true&lang=ru)**: настоящий замес в стиле Vampire Survivors
 - **[Используемые инструменты]**: PoolObject, Chunk Map Generation
 - **[Ссылка на репозиторий](https://github.com/za4emmne/Beacon)**
-<img width="560" height="329" alt="Обложка" src="https://github.com/user-attachments/assets/ebb3b2b1-a402-4623-a81c-716ce445635d" />
+- <img width="560" height="329" alt="07e1179c-03a5-41b9-b832-52541d678309" src="https://github.com/user-attachments/assets/dddd5755-b11d-42f0-91bd-110cc6688e4e" />
 ---
 
 
