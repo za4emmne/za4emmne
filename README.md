@@ -20,7 +20,9 @@
 - **[Сечь]**: настоящий замес в стиле Vampire Survivors
 - **[Используемые инструменты]**: PoolObject, Chunk Map Generation
 - **[Ссылка на репозиторий](https://github.com/za4emmne/Beacon)**
-<img width="560" height="329" alt="07e1179c-03a5-41b9-b832-52541d678309" src="[https://github.com/user-attachments/assets/dddd5755-b11d-42f0-91bd-110cc6688e4e](https://github.com/user-attachments/assets/5b5a2e36-34b4-457a-aa50-6d0a9634c8c8)" />
+- ![1](https://github.com/user-attachments/assets/b831e86e-5664-47b3-9dd8-27db8b9b1064)
+
+<img width="560" height="329" alt="07e1179c-03a5-41b9-b832-52541d678309" src="(https://github.com/user-attachments/assets/5b5a2e36-34b4-457a-aa50-6d0a9634c8c8)" />
 
 ---
 
