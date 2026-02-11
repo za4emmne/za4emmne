@@ -20,11 +20,10 @@
 - **[Сечь]**: настоящий замес в стиле Vampire Survivors
 - **[Используемые инструменты]**: PoolObject, Chunk Map Generation
 - **[Ссылка на репозиторий](https://github.com/za4emmne/Beacon)**
+
   <img src="https://github.com/user-attachments/assets/b831e86e-5664-47b3-9dd8-27db8b9b1064"
      alt="Сечь"
      width="560" height="329">
-![1](https://github.com/user-attachments/assets/b831e86e-5664-47b3-9dd8-27db8b9b1064)
-
 ---
 
 
