@@ -10,13 +10,6 @@
 ---
 
 ## 🧩 Мои проекты
-- **[Дикая пустыня](https://kuzimagames.itch.io/dirtydesert)**: ламповый бесконечный раннер, созданный на Unity
-- **[Используемые инструменты]**: PoolObject
-- **[Ссылка на репозиторий](https://github.com/za4emmne/DirtyDesert)**
-<img width="560" height="329" alt="Обложка дикая пустыня" src="https://github.com/user-attachments/assets/f7ad958e-be6d-4ae0-b374-82ac4c3a1f5e" />
-
----
-
 - **[Сечь]**: настоящий замес в стиле Vampire Survivors
 - **[Используемые инструменты]**: PoolObject, Chunk Map Generation
 - **[Ссылка на репозиторий](https://github.com/za4emmne/Beacon)**
@@ -24,6 +17,13 @@
   <img src="https://github.com/user-attachments/assets/b831e86e-5664-47b3-9dd8-27db8b9b1064"
      alt="Сечь"
      width="560" height="329">
+
+---
+- **[Дикая пустыня](https://kuzimagames.itch.io/dirtydesert)**: ламповый бесконечный раннер, созданный на Unity
+- **[Используемые инструменты]**: PoolObject
+- **[Ссылка на репозиторий](https://github.com/za4emmne/DirtyDesert)**
+<img width="560" height="329" alt="Обложка дикая пустыня" src="https://github.com/user-attachments/assets/f7ad958e-be6d-4ae0-b374-82ac4c3a1f5e" />
+
 ---
 
 
